@@ -1,9 +1,9 @@
 {
-  "name": "layer0-next-i18n-example",
+  "name": "edgio-next-i18n-example",
   "scripts": {
-    "layer0:dev": "layer0 dev",
-    "layer0:build": "layer0 build",
-    "layer0:deploy": "layer0 deploy",
+    "edgio:dev": "edgio dev",
+    "edgio:build": "edgio build",
+    "edgio:deploy": "edgio deploy",
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
@@ -18,11 +18,11 @@
     "react-dom": "17.0.2"
   },
   "devDependencies": {
-    "@layer0/cli": "^3.13.3",
-    "@layer0/core": "^3.13.3",
-    "@layer0/devtools": "^3.13.3",
-    "@layer0/next": "^3.13.3",
-    "@layer0/prefetch": "^3.13.3",
-    "@layer0/react": "^3.13.3"
+    "@edgio/cli": "^5.0.4",
+    "@edgio/core": "^5.0.4",
+    "@edgio/devtools": "^5.0.4",
+    "@edgio/next": "^5.0.4",
+    "@edgio/prefetch": "^5.0.4",
+    "@edgio/react": "^5.0.4"
   }
 }
